@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **c#**
 
-- 🌱 I’m currently learning **pyton**
+- 🌱 I’m currently learning **python**
 
-- 📝 I regularly write articles on [pyton](pyton)
+- 📝 I regularly write articles on [python](python)
 
 - 💬 Ask me about **anything**
 
